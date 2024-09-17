@@ -12,7 +12,7 @@ The dataset provided consists of the following columns:
 
 - `index`: A unique identifier (ID) for the data sample.
 - `image_link`: A public URL where the product image can be downloaded. 
-  - Example: [Product Image](https://m.media-amazon.com/images/l/71XfHPR36-L.jpg)
+  - Example: [Product Image](https://m.media-amazon.com/images/I/61I9XdN6OFL.jpg)
   - To download images, use the `download_images` function from `src/utils.py`. A sample code can be found in `src/test.ipynb`.
 - `group_id`: The category code of the product.
 - `entity_name`: The product entity name, e.g., `"item_weight"`.
