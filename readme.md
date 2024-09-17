@@ -54,7 +54,7 @@ Examples of valid predictions:
 
 ## Model Performance
 
-Our our simple achieved an F1 score of **0.38**.
+Our our simple code achieved an F1 score of **0.38**.
 
 ---
 
